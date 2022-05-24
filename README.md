@@ -4,7 +4,7 @@ This repo will have examples for each React hook. You can view the code as well 
 
 ### Basic Hooks: 
 - ☑ useState
-- useEffect
+- ☑ useEffect
 - useContext
 
 ### Additional Hooks:
