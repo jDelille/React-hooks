@@ -1,3 +1,4 @@
+import UseContextHook from './useContext/UseContextHook';
 import UseEffectHook from './useEffect/UseEffectHook';
 import UseStateHook from './useState/UseStateHook';
 
@@ -6,6 +7,7 @@ function App() {
 		<div className='App'>
 			<UseStateHook />
 			<UseEffectHook />
+			<UseContextHook />
 		</div>
 	);
 }
