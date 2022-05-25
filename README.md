@@ -5,7 +5,7 @@ This repo will have examples for each React hook. You can view the code as well 
 ### Basic Hooks: 
 - ☑ useState
 - ☑ useEffect
-- useContext
+- ☑ useContext
 
 ### Additional Hooks:
 - useReducer
