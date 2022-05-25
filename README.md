@@ -8,7 +8,7 @@ This repo will have examples for each React hook. You can view the code as well 
 - ☑ useContext
 
 ### Additional Hooks:
-- useReducer
+- ☑ useReducer
 - useCallback
 - useMemo
 - useRef
