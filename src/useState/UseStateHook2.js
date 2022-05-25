@@ -1,3 +1,8 @@
+// Overview:
+// useState with objects
+// Create an object of firstname and lastname
+// Change the value of firstname and lastname and preserve the previous state
+
 import React, { useState } from 'react';
 
 const UseStateHook2 = () => {
@@ -17,7 +22,7 @@ const UseStateHook2 = () => {
 					onChange={(e) => setName({ ...name, lastName: e.target.value })}
 					placeholder='last name'
 				/>
-				<h2>Your first name is {name.firstName}</h2>
+				<h2> Your first name is {name.firstName}</h2>
 				<h2> Your last name is {name.lastName}</h2>
 			</form>
 		</div>
